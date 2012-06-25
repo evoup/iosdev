@@ -1,0 +1,75 @@
+TLazyTable
+v7
+r1
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/Default.png
+c000000004AC66104000000000000355C
+t1254514948
+s13660
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/Placeholder.png
+c00000000496FDFE000000000000002C7
+t1232068576
+s711
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Info.plist
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/Placeholder.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Resources/en.lproj/RootViewController.nib
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/en.lproj/MainWindow.xib
+c000000004AC661040000000000005C5F
+t1254514948
+s23647
+
+N/Users/henryyu/Desktop/测试小例子/LazyTableImages/en.lproj/RootViewController.xib
+c000000004A53AC100000000000001F65
+t1246997520
+s8037
+
+NInfo.plist
+c00000000496FDFE000000000000003B2
+t1232068576
+s946
+
+CCompileXIB /Users/henryyu/Desktop/测试小例子/LazyTableImages/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/henryyu/Desktop/测试小例子/LazyTableImages/en.lproj/RootViewController.xib
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/LazyTable.app/Contents/Resources/Placeholder.png Placeholder.png
+r0
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/henryyu/Desktop/测试小例子/LazyTableImages/build/Debug/LazyTable.app
+r0
+
