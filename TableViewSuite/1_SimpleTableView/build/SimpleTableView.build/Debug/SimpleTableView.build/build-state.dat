@@ -1,0 +1,75 @@
+TSimpleTableView
+v7
+r1
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/Default.png
+c000000004A21E53E0000000000000848
+t1243735358
+s2120
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/Icon.png
+c000000004A21E53E0000000000000BE3
+t1243735358
+s3043
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/MainWindow.xib
+c000000004A21E53E0000000000001D0F
+t1243735358
+s7439
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Resources/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/en.lproj/Localizable.strings
+c000000004A21E53E000000000000003E
+t1243735358
+s62
+
+NInfo.plist
+c000000004A3C30290000000000000381
+t1245458473
+s897
+
+CCompileXIB /Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/MainWindow.xib
+r0
+
+CCopyStringsFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Resources/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug/SimpleTableView.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/SimpleTableView.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/henryyu/Desktop/测试小例子/TableViewSuite/1_SimpleTableView/build/Debug/SimpleTableView.app
+r0
+

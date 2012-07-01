@@ -1,0 +1,324 @@
+TSimpleIndexedTableView
+v7
+r0
+t324807950.161812
+cCheck dependencies
+cProcessInfoPlistFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/SimpleIndexedTableView.app/Default.png Default.png
+cCompileXIB /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/SimpleIndexedTableView.app/Icon.png Icon.png
+cCopyStringsFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cProcessPCH /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch.gch SimpleIndexedTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/main.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableViewAppDelegate.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/RootViewController.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/TimeZoneWrapper.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView normal i386
+cGenerateDSYMFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView
+cTouch /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.h
+c000000004DABF58C00000000000000EB
+t1303115148
+s235
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m
+c000000004DABF58C00000000000013B4
+t1303115148
+s5044
+i"RootViewController.h"
+i"SimpleIndexedTableViewAppDelegate.h"
+i"TimeZoneWrapper.h"
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.h
+c000000004DABF58C000000000000012C
+t1303115148
+s300
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m
+c000000004DABF58C00000000000006B0
+t1303115148
+s1712
+i"SimpleIndexedTableViewAppDelegate.h"
+i"RootViewController.h"
+i"TimeZoneWrapper.h"
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.h
+c000000004DABF58C0000000000000120
+t1303115148
+s288
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m
+c000000004DABF58C00000000000002E0
+t1303115148
+s736
+i"TimeZoneWrapper.h"
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Default.png
+c000000004A21E53E0000000000000848
+t1243735358
+s2120
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Icon.png
+c000000004A21E53E0000000000000BE3
+t1243735358
+s3043
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib
+c000000004A21E53E0000000000001D32
+t1243735358
+s7474
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/SimpleIndexedTableView_Prefix.pch
+c000000004A21E53E00000000000000D5
+t1243735358
+s213
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app
+t1303115150
+s306
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM
+t1303115150
+s102
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Default.png
+t1303115148
+s2120
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Icon.png
+t1303115148
+s3043
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Info.plist
+t1303115148
+s652
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/MainWindow.nib
+t1303115148
+s975
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/PkgInfo
+t1303115148
+s8
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView
+t1303115150
+s25716
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/en.lproj/Localizable.strings
+t1303115148
+s56
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/RootViewController.o
+t1303115150
+s48448
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableView.LinkFileList
+c000000004DABF58C0000000000000336
+t1303115148
+s822
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableViewAppDelegate.o
+t1303115149
+s49724
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/TimeZoneWrapper.o
+t1303115150
+s11872
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/main.o
+t1303115149
+s6380
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/en.lproj/Localizable.strings
+c000000004A21E53E000000000000003E
+t1243735358
+s62
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m
+c000000004DABF58C00000000000000C8
+t1303115148
+s200
+
+N/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch.gch
+t1303115149
+s13825936
+
+NInfo.plist
+c000000004A3C30290000000000000381
+t1245458473
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324807948#324807948#0(0"0(0#1#0"8635675872#0"0#
+
+CCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/RootViewController.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324807949.943291
+e324807950.102270
+r1
+xCompileC
+xbuild/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/RootViewController.o
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m324807949#324807950#0(0"0(0#0#107"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m8620493696#2731"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-generated-files.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-own-target-headers.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-all-target-headers.hmap -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-project-headers.hmap -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources/i386 -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/RootViewController.m -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableViewAppDelegate.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324807949.843771
+e324807949.987757
+r1
+xCompileC
+xbuild/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableViewAppDelegate.o
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m324807949#324807950#0(0"0(0#0#122"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m8610288992#2761"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-generated-files.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-own-target-headers.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-all-target-headers.hmap -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-project-headers.hmap -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources/i386 -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/SimpleIndexedTableViewAppDelegate.m -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableViewAppDelegate.o0#
+
+CCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/TimeZoneWrapper.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324807949.987898
+e324807950.076159
+r1
+xCompileC
+xbuild/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/TimeZoneWrapper.o
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m324807949#324807950#0(0"0(0#0#104"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m8611539552#2725"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-generated-files.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-own-target-headers.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-all-target-headers.hmap -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-project-headers.hmap -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources/i386 -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Classes/TimeZoneWrapper.m -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/TimeZoneWrapper.o0#
+
+CCompileC build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/main.o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324807949.842235
+e324807949.942988
+r1
+xCompileC
+xbuild/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/main.o
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m324807949#324807949#0(0"0(0#0#85"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m8616252800#2695"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-generated-files.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-own-target-headers.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-all-target-headers.hmap -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-project-headers.hmap -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources/i386 -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/main.m -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib
+s324807948.377171
+e324807948.945286
+r1
+xCompileXIB
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324807948#324807948#0(0"0(0#0#93"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib8606395520#705"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/MainWindow.nib /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCopyStringsFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s324807948.388619
+e324807948.461829
+r1
+xCopyStringsFile
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings324807948#324807948#0(0"0(0#0#107"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/en.lproj/Localizable.strings8621129728#581"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/SimpleIndexedTableView.app/Default.png Default.png
+s324807948.368627
+e324807948.379428
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleIndexedTableView.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png324807948#324807948#0(0"0(0#0#90"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Default.png8627205472#590"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Default.png /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/SimpleIndexedTableView.app/Icon.png Icon.png
+s324807948.379541
+e324807948.415961
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleIndexedTableView.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png324807948#324807948#0(0"0(0#0#87"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Icon.png8628424640#587"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Icon.png /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app0#
+
+CGenerateDSYMFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView
+s324807950.135121
+e324807950.157424
+r1
+xGenerateDSYMFile
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView
+lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView324807950#324807950#0(0"0(0#0#156"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView8595992512#548"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app.dSYM0#
+
+CLd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView normal i386
+s324807950.102752
+e324807950.134983
+r1
+xLd
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView
+xnormal
+xi386
+lSLF07#2@161"Link /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView324807950#324807950#0(0"0(0#0#0"8610012224#1175"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -filelist /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/Objects-normal/i386/SimpleIndexedTableView.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/SimpleIndexedTableView0#
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Info.plist Info.plist
+s324807948.346426
+e324807948.368497
+r1
+xProcessInfoPlistFile
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist324807948#324807948#0(0"0(0#0#89"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/Info.plist8612519488#621"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch.gch SimpleIndexedTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324807948.945447
+e324807949.842097
+r1
+xProcessPCH
+x/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch.gch
+xSimpleIndexedTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile SimpleIndexedTableView_Prefix.pch324807948#324807949#0(0"0(0#0#112"/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/SimpleIndexedTableView_Prefix.pch8635367808#2532"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-generated-files.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-own-target-headers.hmap -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-all-target-headers.hmap -iquote /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/SimpleIndexedTableView-project-headers.hmap -F/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources/i386 -I/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/SimpleIndexedTableView.build/Debug-iphonesimulator/SimpleIndexedTableView.build/DerivedSources -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/SimpleIndexedTableView_Prefix.pch -o /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleIndexedTableView_Prefix-bpkihgllshrtqoekywbyyesvwyys/SimpleIndexedTableView_Prefix.pch.gch0#
+
+CTouch /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app
+s324807950.157545
+e324807950.161759
+r1
+xTouch
+x/Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app
+lSLF07#2@139"Touch /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app324807950#324807950#0(0"0(0#0#0"8637582720#373"    cd /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/henryyu/Desktop/测试小例子/TableViewSuite/3_SimpleIndexedTableView/build/Debug-iphonesimulator/SimpleIndexedTableView.app0#
+

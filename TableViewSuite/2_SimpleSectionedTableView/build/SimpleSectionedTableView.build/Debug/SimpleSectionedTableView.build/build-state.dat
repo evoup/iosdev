@@ -1,0 +1,75 @@
+TSimpleSectionedTableView
+v7
+r1
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/../1_SimpleTableView/Icon.png
+c000000004A21E53E0000000000000BE3
+t1243735358
+s3043
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/Default.png
+c000000004A21E53E0000000000000848
+t1243735358
+s2120
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/MainWindow.xib
+c000000004A21E53E0000000000001D3E
+t1243735358
+s7486
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Resources/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/en.lproj/Localizable.strings
+c000000004A21E53E000000000000003E
+t1243735358
+s62
+
+NInfo.plist
+c000000004A3C30290000000000000388
+t1245458473
+s904
+
+CCompileXIB /Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/MainWindow.xib
+r0
+
+CCopyStringsFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Resources/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug/SimpleSectionedTableView.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/SimpleSectionedTableView.app/Contents/Resources/Icon.png ../1_SimpleTableView/Icon.png
+r0
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/henryyu/Desktop/测试小例子/TableViewSuite/2_SimpleSectionedTableView/build/Debug/SimpleSectionedTableView.app
+r0
+
